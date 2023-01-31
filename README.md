@@ -1,7 +1,7 @@
 # AIFFEL
 (본 repository는 aiffel lms를 기반으로 작성되었습니다.)
-## 10/18 [F-01]READY TO GO?
-## 10/19 [F-02]인공지능 개발자가 되기 위한 위대한 첫 걸음
+## 10/18 [[F-01]](https://abaft-chill-beb.notion.site/2-10-18-bf94ae2eebdd41cf88139c63da3dc0b0)READY TO GO?
+## 10/19 [[F-02]](https://abaft-chill-beb.notion.site/3-10-19-44cbd543d71549928377fe9d9a67f989)인공지능 개발자가 되기 위한 위대한 첫 걸음
 ## 10/20 [F-03]터미널로 배우는 리눅스 운영체제
 ## 10/21 [F-04]개발자를 위한 첫 번째 필수 교양
 ## 10/24 [F-05]파이썬으로 코딩 시작하기
@@ -14,5 +14,5 @@
 ## 11/02 [F-11]사이킷런으로 구현해 보는 머신러닝
 ## 11/03 [F-12]텍스트의 다양한 변신 (문자열, 파일 다루기)
 ## 11/04 [E-02]날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?
-## 11/07 [[F-13]](https://github.com/soy53/AIFFEL/blob/main/Fundamental/%5BF-13%5D%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%8C%8C%EC%9D%BC%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb)파이썬으로 이미지 파일 다루기
+## 11/07 [F-13]파이썬으로 이미지 파일 다루기
 ## 11/08 [E-03]나의 첫 번째 캐글 경진대회, 무작정 따라해보기
